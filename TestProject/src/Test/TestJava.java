@@ -7,5 +7,6 @@ public class TestJava {
 		System.out.println("If this shows up after push, that means it worked.");
 		System.out.println("FeelsWowMan I did it!");
 		System.out.println("I did it tooo feelswowman");
+		System.out.println("Dog");
 	}
 }
